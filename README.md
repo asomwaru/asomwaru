@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+My name is Alex Somwaru! I'm a CS student at UCF!
+
+Work experience:
+- Cloud @ Red Meters (Fall 2022)
+- SWE @ Meta (Summer 2022)
+- Frontend @ Red Meters (Winter 2022)
+
+Some things about me:
+- 🦀 Yet another Rust shill
+- 🧗 Also yet another CS rock climber
 
 <!--
 **asomwaru/asomwaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
