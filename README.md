@@ -3,6 +3,7 @@
 My name is Alex Somwaru! I'm a CS student at UCF!
 
 Work experience:
+- SWE @ ARA (Spring 2023)
 - Cloud @ Red Meters (Fall 2022)
 - SWE @ Meta (Summer 2022)
 - Frontend @ Red Meters (Winter 2022)
