@@ -7,7 +7,7 @@ Work experience:
 - SWE @ ARA (Spring 2023)
 - Cloud @ Red Meters (Fall 2022)
 - SWE @ Meta (Summer 2022)
-- Frontend @ Red Meters (Winter 2022)
+- Frontend @ Red Meters (Spring 2022)
 
 Some things about me:
 - 🦀 Yet another Rust shill
