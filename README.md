@@ -3,6 +3,7 @@
 My name is Alex Somwaru! I'm a CS student at UCF!
 
 Work experience:
+- DevOps @ Trail of Bits (Summer 2023)
 - SWE @ ARA (Spring 2023)
 - Cloud @ Red Meters (Fall 2022)
 - SWE @ Meta (Summer 2022)
