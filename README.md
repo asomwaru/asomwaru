@@ -3,7 +3,7 @@
 My name is Alex Somwaru! I'm a CS student at UCF! Currently look for software roles!
 
 Work experience:
-- Systems Engineer @ MITRE (September 2023)
+- Systems Engineer @ MITRE (September 2024-October 2025)
 - SWE @ ARA (Fall 2023)
 - DevOps Intern @ Trail of Bits (Summer 2023)
 - SWE Intern @ ARA (Spring 2023)
@@ -14,6 +14,7 @@ Work experience:
 Some things about me:
 - 🦀 Rust shill
 - 🧗 Rock climber
+- 📸 Sony Camera Enjoyer
 
 Let me know if there are some cool project ideas you have!
 
