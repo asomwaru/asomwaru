@@ -5,9 +5,9 @@ My name is Alex Somwaru! I'm a CS student at UCF! Currently look for software ro
 Work experience:
 - Systems Engineer @ MITRE (September 2024-October 2025)
 - SWE @ ARA (Fall 2023 - September 2024)
-- DevOps Intern @ Trail of Bits (Summer 2023)
+- DevOps @ Trail of Bits (Summer 2023)
 - SWE Intern @ ARA (Spring 2023)
-- Cloud Intern @ Red Meters (Fall 2022)
+- Cloud @ Red Meters (Fall 2022)
 - SWE Intern @ Meta (Summer 2022)
 - Frontend Developer @ Red Meters (Spring 2022)
 
