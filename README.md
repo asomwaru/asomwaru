@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-My name is Alex Somwaru! I'm a CS student at UCF! Currently look for software roles!
+My name is Alex Somwaru! 
 
 Work experience:
+- Product Engineer @ AdventHealth
+- Lead Software Engineer @ USMEXA
 - Systems Engineer @ MITRE (September 2024-October 2025)
 - SWE @ ARA (Fall 2023 - September 2024)
 - DevOps @ Trail of Bits (Summer 2023)
